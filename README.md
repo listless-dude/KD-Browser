@@ -1,6 +1,6 @@
 # KD-Browser
 
-This is a VB.net Web Browser made in Visual Basic 2010. I need the help of github community, make contributions to make this more advanced webbrowser.
+This is a VB.net Web Browser made in Visual Basic 2010.
 
 This WebBrowser has the following features:
 1. Tabbed Webview
